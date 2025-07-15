@@ -1,6 +1,5 @@
 import { Html, OrbitControls, PerspectiveCamera, View } from '@react-three/drei'
 import * as THREE from 'three'
-import { Canvas } from '@react-three/fiber'
 import { Suspense } from 'react'
 import React from 'react'
 import Lights from './Lights'
